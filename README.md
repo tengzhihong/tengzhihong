@@ -35,7 +35,7 @@ CGPA: 3.48 | Second Upper Honours
 
 🏫SMK Dato Ali Haji Ahmad (SDAHA) | 📌Johor, Malaysia
 
-📆January 2017 - March 2023
+📆January 2018 - March 2023
 
 BAHASA MELAYU       | A- 
 
@@ -63,7 +63,23 @@ BAHASA CINA         | B+
 
 🏫SJK (C) Cheow Min | 📌Johor, Malaysia
 
-📆January 2011 - October 2016
+📆January 2012 - October 2017
+
+BAHASA MELAYU PEMAHAMAN      | C
+
+BAHASA MELAYU PENULISAN      | C
+
+BAHASA INGGERIS PEMAHAMAN    | D
+
+BAHASA INGGERIS PENULISAN    | C
+
+MATEMATIK                    | C 
+
+BAHASA CINA PEMAHAMAN        | C 
+
+BAHASA CINA PENULISAN        | B
+
+SAINS                        | B
 
 ----------------------------------------------------------------------------------
 
